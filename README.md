@@ -55,10 +55,3 @@ These labs were built to support my learning and practice in **network engineeri
 
 ---
 
-##  Author
-
-**Sivasankaran G**  
-Network Engineer | Cybersecurity Trainee | Tech Blogger  
-
-- **Medium:** [https://medium.com/@Sivasankarang](https://medium.com/@Sivasankarang)  
-- **GitHub:** [https://github.com/Siva918641/Cisco-networking-projects](https://github.com/Siva918641/Cisco-networking-projects)  
